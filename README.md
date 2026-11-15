@@ -1,2 +1,2 @@
 # Clippy
-A Application to store the findings
+An Application to store the findings
